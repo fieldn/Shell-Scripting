@@ -14,5 +14,8 @@ if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
     echo $ERR
 fi
 let POINTS=POINTS+COUNT
-egrep [\#\$\+\%\@] $1
+SPECIAL=(egrep -c '[\#\$\+\%\@]' $1)
+if [ "SPECIAL" -gt "0" ] ; then
+    let POINTS=POINTS+1
+fi
 echo $POINTS
