@@ -40,7 +40,7 @@ let POINTS=POINTS+COUNT
 [[ "$REPUPPER" -gt "0" ]] && ((POINTS-=3))
 
 #password contains 3 lowercase characters in a row
-[[ "$RELOWER" -gt "0" ]] && ((POINTS-=3))
+[[ "$REPLOWER" -gt "0" ]] && ((POINTS-=3))
 
 #password contains 3 numbers in a row
 [[ "$REPNUM" -gt "0" ]] && ((POINTS-=3))
