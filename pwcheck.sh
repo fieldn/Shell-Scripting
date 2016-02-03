@@ -24,47 +24,40 @@ if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
 
 fi
 let POINTS=POINTS+COUNT
-echo $POINTS
 
 #password contains special characters
 if [ "$SPECIAL" -gt "0" ] ; then    
     let POINTS=POINTS+5
 fi
-echo $POINTS
 
 #password contains a number
 if [ "$NUMBER" -gt "0" ] ; then    
     let POINTS=POINTS+5
 fi
-echo $POINTS
 
 #password contains an alpha character
 if [ "$ALPHA" -gt "0" ] ; then    
     let POINTS=POINTS+5
 fi
-echo $POINTS
 
 #password contains an the same alpha character in a row
 if [ "$REPCHAR" -gt "0" ] ; then    
     let POINTS=POINTS-10
 fi
-echo $POINTS
 
-#password contains an alpha character
-if [ "$REPUPPER" -gt "0" ] ; then    
+#password contains 3 uppercase characters
+if [ "$REPUPPER" -gt "0" ] ; then
     let POINTS=POINTS-3
 fi
-echo "repupper" $POINTS
 
-#password contains an alpha character
-if [ "$REPLOWER" -gt "0" ] ; then    
+#password contains 3 lowercase characters in a row
+if [ "$REPLOWER" -gt "0" ] ; then
     let POINTS=POINTS-3
 fi
-echo "relower" $POINTS
 
-#password contains an alpha character
-if [ "$REPNUM" -gt "0" ] ; then    
+#password contains 3 numbers in a row
+if [ "$REPNUM" -gt "0" ] ; then
     let POINTS=POINTS-3
 fi
-echo $POINTS
+
 echo $PWDSCORE $POINTS
