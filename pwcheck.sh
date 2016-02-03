@@ -9,13 +9,28 @@ POINTS=0
 PASSWORD=$(cat $1)
 ERR="Error: Password length invalid."
 COUNT=${#PASSWORD}
+SPECIAL=$(egrep -c '[\#\$\+\%\@]' $1)
+NUMBER=$(egrep -c '[0-9]' $1)
+ALPHA=$(egrep -c '[A-Za-z]' $1)
+
 echo $COUNT
 if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
     echo $ERR
 fi
 let POINTS=POINTS+COUNT
-SPECIAL=$(egrep -c '[\#\$\+\%\@]' $1)
-if [ "$SPECIAL" -gt "0" ] ; then
+echo $POINTS
+
+if [ "$SPECIAL" -gt "0" ] ; then    #password contains special characters
+    let POINTS=POINTS+5
+fi
+echo $POINTS
+
+if [ "$NUMBER" -gt "0" ] ; then    #password contains a number
+    let POINTS=POINTS+5
+fi
+echo $POINTS
+
+if [ "$ALPHA" -gt "0" ] ; then    #password contains an alpha character
     let POINTS=POINTS+5
 fi
 echo $POINTS
