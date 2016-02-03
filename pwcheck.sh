@@ -14,3 +14,4 @@ if [ "$COUNT" -lt "6" ] -o [ "$COUNT" -gt "32" ]
     echo $ERR
 let POINTS=POINTS+COUNT
 echo $POINTS
+fi
