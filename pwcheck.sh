@@ -14,4 +14,5 @@ if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
     echo $ERR
 fi
 let POINTS=POINTS+COUNT
+egrep [\#\$\+\%\@] $1
 echo $POINTS
