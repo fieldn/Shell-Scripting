@@ -10,8 +10,8 @@ PASSWORD=$(cat $1)
 ERR="Error: Password length invalid."
 COUNT=${#PASSWORD}
 echo $COUNT
-#if [[ "$COUNT" -lt "6" ] -o [ "$COUNT" -gt "32" ]]
-#    echo $ERR
-#fi
+if [[ "$COUNT" -lt "6" ] -o [ "$COUNT" -gt "32" ]]
+    echo $ERR
+fi
 let POINTS=POINTS+COUNT
 echo $POINTS
