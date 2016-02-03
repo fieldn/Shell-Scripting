@@ -26,9 +26,7 @@ fi
 let POINTS=POINTS+COUNT
 
 #password contains special characters
-if [ "$SPECIAL" -gt "0" ] ; then    
-    let POINTS=POINTS+5
-fi
+[[ -f "$SPECIAL" -gt "0" && let POINTS=POINTS+5]]
 
 #password contains a number
 if [ "$NUMBER" -gt "0" ] ; then    
