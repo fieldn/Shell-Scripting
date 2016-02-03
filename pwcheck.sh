@@ -15,7 +15,7 @@ if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
 fi
 let POINTS=POINTS+COUNT
 SPECIAL=(egrep -c '[\#\$\+\%\@]' $1)
-if [ "SPECIAL" -gt "0" ] ; then
+if [ "$SPECIAL" -gt "0" ] ; then
     let POINTS=POINTS+1
 fi
 echo $POINTS
