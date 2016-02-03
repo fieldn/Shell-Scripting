@@ -21,7 +21,6 @@ REPLOWER=$(grep -Ec '[a-z]{3,}' $1)
 #password length is between 6 and 32
 if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
     echo $ERR
-
 fi
 let POINTS=POINTS+COUNT
 
