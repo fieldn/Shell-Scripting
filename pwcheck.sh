@@ -4,7 +4,6 @@
 git add $0 >> .local.git.out
 git commit -a -m "Lab 2 commit" >> .local.git.out
 
-#Your code here
 POINTS=0
 PASSWORD=$(cat $1)
 PWDSCORE="Password Score: "
@@ -27,30 +26,23 @@ let POINTS=POINTS+COUNT
 
 #password contains special characters
 [[ "$SPECIAL" -gt "0" ]] && ((POINTS+=5))
-echo $POINTS
 
 #password contains a number
 [[ "$NUMBER" -gt "0" ]] && ((POINTS+=5))
-echo $POINTS
 
 #password contains an alpha character
 [[ "$ALPHA" -gt "0" ]] && ((POINTS+=5))
-echo $POINTS
 
 #password contains an the same alpha character in a row
 [[ "$REPCHAR" -gt "0" ]] && ((POINTS-=10))
-echo $POINTS
 
 #password contains 3 uppercase characters
 [[ "$REPUPPER" -gt "0" ]] && ((POINTS-=3))
-echo $POINTS
 
 #password contains 3 lowercase characters in a row
 [[ "$RELOWER" -gt "0" ]] && ((POINTS-=3))
-echo $POINTS
 
 #password contains 3 numbers in a row
 [[ "$REPNUM" -gt "0" ]] && ((POINTS-=3))
-echo $POINTS
 
 echo $PWDSCORE $POINTS
