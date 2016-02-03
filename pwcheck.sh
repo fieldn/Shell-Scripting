@@ -25,8 +25,10 @@ if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
 fi
 let POINTS=POINTS+COUNT
 
+[[ -f pwcheck.sh ]] && echo yes
+
 #password contains special characters
-[[ -f ["$SPECIAL" -gt "0" ]]] && let POINTS=POINTS+5
+#[[ -f ["$SPECIAL" -gt "0" ]]] && let POINTS=POINTS+5
 
 #password contains a number
 if [ "$NUMBER" -gt "0" ] ; then    
