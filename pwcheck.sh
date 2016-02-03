@@ -16,6 +16,6 @@ fi
 let POINTS=POINTS+COUNT
 SPECIAL=$(egrep -c '[\#\$\+\%\@]' $1)
 if [ "$SPECIAL" -gt "0" ] ; then
-    let POINTS=POINTS+1
+    let POINTS=POINTS+5
 fi
 echo $POINTS
