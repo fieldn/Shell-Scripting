@@ -10,13 +10,13 @@ PASSWORD=$(cat $1)
 PWDSCORE="Password Score: "
 ERR="Error: Password length invalid."
 COUNT=${#PASSWORD}
-SPECIAL=$(egrep -c '[\#\$\+\%\@]' $1)
-NUMBER=$(egrep -c '[0-9]' $1)
-ALPHA=$(egrep -c '[A-Za-z]' $1)
-REPCHAR=$(egrep -c '([A-Za-z])(\1)+' $1)
-REPNUM=$(egrep -c '[0-9]{3,}?' $1)
-REPUPPER=$(egrep -c '[A-Z]{3,}?' $1)
-REPLOWER=$(egrep -c '[a-z]{3,}?' $1)
+SPECIAL=$(grep -Ec '[\#\$\+\%\@]' $1)
+NUMBER=$(grep -Ec '[0-9]' $1)
+ALPHA=$(grep -Ec '[A-Za-z]' $1)
+REPCHAR=$(grep -Ec '([A-Za-z])(\1)+' $1)
+REPNUM=$(grep -Ec '[0-9]{3,}?' $1)
+REPUPPER=$(grep -Ec '[A-Z]{3,}?' $1)
+REPLOWER=$(grep -Ec '[a-z]{3,}?' $1)
 
 #password length is between 6 and 32
 if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
@@ -60,7 +60,7 @@ echo $POINTS
 if [ "$REPLOWER" -gt "0" ] ; then    
     let POINTS=POINTS-3
 fi
-echo $POINTS
+echo "repupper" $POINTS
 
 #password contains an alpha character
 if [ "$REPNUM" -gt "0" ] ; then    
