@@ -12,6 +12,6 @@ COUNT=${#PASSWORD}
 echo $COUNT
 if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
     echo $ERR
-fi
+#fi
 let POINTS=POINTS+COUNT
 echo $POINTS
