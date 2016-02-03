@@ -41,4 +41,4 @@ if [ "$ALPHA" -gt "0" ] ; then
 fi
 echo $POINTS
 
-echo $PWDSCORE + $POINTS
+echo $PWDSCORE $POINTS
