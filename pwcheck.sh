@@ -13,7 +13,10 @@ COUNT=${#PASSWORD}
 SPECIAL=$(egrep -c '[\#\$\+\%\@]' $1)
 NUMBER=$(egrep -c '[0-9]' $1)
 ALPHA=$(egrep -c '[A-Za-z]' $1)
-REPCHAR=$(egrep -c '[(A-Za-z)]' $1)
+REPCHAR=$(egrep -c '([A-Za-z])(\1)+' $1)
+REPNUM=$(egrep -c '[0-9]{3,}?' $1)
+REPUPPER=$(egrep -c '[A-Z]{3,}?' $1)
+REPLOWER=$(egrep -c '[a-z]{3,}?' $1)
 
 #password length is between 6 and 32
 if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
@@ -41,4 +44,27 @@ if [ "$ALPHA" -gt "0" ] ; then
 fi
 echo $POINTS
 
+#password contains an the same alpha character in a row
+if [ "$REPCHAR" -gt "0" ] ; then    
+    let POINTS=POINTS-10
+fi
+echo $POINTS
+
+#password contains an alpha character
+if [ "$REPUPPER" -gt "0" ] ; then    
+    let POINTS=POINTS-3
+fi
+echo $POINTS
+
+#password contains an alpha character
+if [ "$REPLOWER" -gt "0" ] ; then    
+    let POINTS=POINTS-3
+fi
+echo $POINTS
+
+#password contains an alpha character
+if [ "$REPNUM" -gt "0" ] ; then    
+    let POINTS=POINTS-3
+fi
+echo $POINTS
 echo $PWDSCORE $POINTS
