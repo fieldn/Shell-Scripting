@@ -119,7 +119,7 @@ function notify
     if [[ $cpu_usage_int -gt $CPU_THRESHOLD || $mem_usage -gt $MEMORY_THRESHHOLD ]]; then
         file_to_send=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
         echo "Maximum memory usage exceeded:" > tmp_message
-        echo $(cat $REPORTS_DIR/$file_to_send) >> tmp_message
+        $(cat $REPORTS_DIR/$file_to_send) >> tmp_message
         cat tmp_message
         #/usr/bin/mailx -s "mail-usage" $USER < tmp-message
         exit
