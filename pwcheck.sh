@@ -37,4 +37,4 @@ let POINTS=POINTS+COUNT
 
 [[ "$REPNUM"   -gt "0" ]] && ((POINTS-=3))  #password contains 3 numbers in a row
 
-echo "Password Score: " $POINTS
+echo "Password Score:" $POINTS
