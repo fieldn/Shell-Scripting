@@ -116,12 +116,21 @@ function notify
 	cpu_usage_int=$(printf "%.f" $1)
 
 	#Check if the process has exceeded the thresholds
-    if [[ $cpu_usage_int -gt $CPU_THRESHOLD || $mem_usage -gt $MEMORY_THRESHHOLD ]]; then
+    if [[ $cpu_usage_int -gt $CPU_THRESHOLD ]]; then
+        file_to_send=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
+        echo "Maximum memory usage exceeded:" > tmp_message
+        echo "this sucks"
+        cat $REPORTS_DIR/$file_to_send >> tmp_message
+        cat tmp_message
+    fi
+
+    if [[ $mem_usage -gt $MEMORY_THRESHHOLD ]]; then
         file_to_send=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
         echo "Maximum memory usage exceeded:" > tmp_message
         cat $REPORTS_DIR/$file_to_send >> tmp_message
+        echo "a lot"
         cat tmp_message
-        #/usr/bin/mailx -s "mail-usage" $USER < tmp-message
+        #/usr/bin/mailx -s "mail-usage" $USER < tmp_message
         exit
     fi
 
