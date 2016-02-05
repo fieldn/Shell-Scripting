@@ -25,7 +25,7 @@ fi
 let POINTS=POINTS+COUNT
 
 #password contains special characters
-[[ "$SPECIAL" -gt "0" ]] && ((POINTS+=5))
+[[ "$(grep -Ec '[\#\$\+\%\@]' $1)" -gt "0" ]] && ((POINTS+=5))
 
 #password contains a number
 [[ "$NUMBER" -gt "0" ]] && ((POINTS+=5))
