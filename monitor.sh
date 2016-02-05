@@ -118,7 +118,7 @@ function notify
     echo $MEMORY_THRESHHOLD
 
 	#Check if the process has exceeded the thresholds
-    if [[ $cpu_usage_int -gt $CPU_THRESHOLD ]]; then
+    if [[ $cpu_usage_int -gt $CPU_THRESHOLD || [[ $MEMORY_THRESHHOLD -ne -1 && $mem_usage -gt $MEMORY_THRESHHOLD ]] ]]; then
         file_to_send=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
         echo "Maximum memory usage exceeded:" > tmp_message
         echo "this sucks"
