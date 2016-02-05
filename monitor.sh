@@ -112,7 +112,7 @@ function notify
 
 	#Check if the process has exceeded the thresholds
     if [ $cpu_usage_int -gt $CPU_THRESHOLD ]; then
-
+        echo "hello"
     fi
 
 }
