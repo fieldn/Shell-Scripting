@@ -60,7 +60,7 @@ function jiffies_to_percentage {
 function generate_report {
 	
 	#if ./reports_dir has more than $MAXIMUM_REPORTS reports, then, delete the oldest report to have room for the current one
-    num_reports=$( grep -Ec '(([0-9]{2}.){2}([0-9]{4}.)(\1){2}[0-9]{2})' (ls REPORTS_DIR) )
+    num_reports=$( grep -Ec '(([0-9]{2}.){2}([0-9]{4}.)(\1){2}[0-9]{2})' $(ls REPORTS_DIR) )
 
     if [ $num_reports -gte $MAXIMUM_REPORTS ]; then
         echo "Whoops!"
