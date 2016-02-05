@@ -64,7 +64,8 @@ function generate_report {
     #$( grep -cE '([0-9]{2}.){2}([0-9]{4}.)(\1){2}[0-9]{2}' $(ls $REPORTS_DIR) )
 
     if [ "$num_reports" -ge "$MAXIMUM_REPORTS" ]; then
-        echo "Whoops!"
+        file_to_delete=$(head $(ls reports_dir | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}'))
+        echo file_to_delete
     fi
 
 	#Name of the report file
@@ -114,8 +115,7 @@ function notify
 
 	#Check if the process has exceeded the thresholds
     if [ $cpu_usage_int -gt $CPU_THRESHOLD ]; then
-        file_to_delete=$(head $(ls reports_dir | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}'))
-        echo file_to_delete
+        echo "hello"
     fi
 
 }
