@@ -24,7 +24,6 @@ function check_arguments {
 
 function init
 {
-
 	#Remove reports directory
 	rm -fr ./reports_dir
 	mkdir ./reports_dir
@@ -68,9 +67,7 @@ function generate_report {
 	#Extracting process name from /proc
 	process_name=$(cat /proc/$PID/stat | awk '{print $2}')
 
-	#You may uncomment the following lines to generate the report. Make sure the first argument to this function is the CPU usage
-	#and the second argument is the memory usage
-
+    #Generate the report
 	echo "PROCESS ID: $PID" > ./reports_dir/$file_name
 	echo "PROCESS NAME: $process_name" >> ./reports_dir/$file_name
 	echo "CPU USAGE: $1 %" >> ./reports_dir/$file_name
@@ -133,7 +130,8 @@ do
 	cpu_usage=$(calculate_cpu_usage)
 
 	#part 2
-	mem_usage=$(calculate_mem_usage)
+	mem_usage=1
+    #$(calculate_mem_usage)
 
 	generate_report $cpu_usage $mem_usage
 
