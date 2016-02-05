@@ -21,7 +21,10 @@ function check_arguments {
 	#Extract the memory threshold (part 2 of the script)
     if [ "$1" -gt 7 ]; then
         MEMORY_THRESHHOLD=$6
+    else 
+        MEMORY_THRESHHOLD=-1
     fi
+
 }
 
 function init {
@@ -59,7 +62,7 @@ function jiffies_to_percentage {
 #This function takes as arguments the cpu usage and the memory usage that were last computed
 function generate_report {
 	
-	#if ./reports_dir has more than $MAXIMUM_REPORTS reports, then, delete the oldest report to have room for the current one
+	#if ./reports_dir has more than $MAXIMUM_REPORTS reports, delete the oldest report
     num_reports=$(ls -1 $REPORTS_DIR | wc -l)
 
     if [ "$num_reports" -ge "$MAXIMUM_REPORTS" ]; then
@@ -67,17 +70,17 @@ function generate_report {
         rm $REPORTS_DIR/$file_to_delete
     fi
 
-	#Name of the report file
-	file_name="$(date +'%d.%m.%Y.%H.%M.%S')"
+	file_name="$(date +'%d.%m.%Y.%H.%M.%S')"                #Name of the report file
 
-	#Extracting process name from /proc
-	process_name=$(cat /proc/$PID/stat | awk '{print $2}')
+	process_name=$(cat /proc/$PID/stat | awk '{print $2}')  #Extracting process name from /proc
 
     #Generate the report
 	echo "PROCESS ID: $PID" > ./reports_dir/$file_name
 	echo "PROCESS NAME: $process_name" >> ./reports_dir/$file_name
 	echo "CPU USAGE: $1 %" >> ./reports_dir/$file_name
-	echo "MEMORY USAGE: $2 kB" >> ./reports_dir/$file_name
+    if [ $MEMORY_THRESHHOLD -ne -1 ]; then
+	    echo "MEMORY USAGE: $2 kB" >> ./reports_dir/$file_name
+    fi
 }
 
 #Returns a percentage representing the CPU usage
@@ -87,8 +90,7 @@ function calculate_cpu_usage {
     oldutime=$(cat /proc/$PID/stat | awk '{print $14}')
     oldstime=$(cat /proc/$PID/stat | awk '{print $15}')
 
-	#Sleep for time_interval
-    sleep $TIME_INTERVAL
+    sleep $TIME_INTERVAL    #Sleep for time_interval
 
 	#Now, get the current utime and stime (newutime and newstime) /proc/{pid}/stat
     newutime=$(cat /proc/$PID/stat | awk '{print $14}')
@@ -102,22 +104,24 @@ function calculate_cpu_usage {
 
 function calculate_mem_usage
 {
-    mem_usage=$(grep -E 'VmRSS' /proc/$PID/status | awk '{print $2}')   #Extract the VmRSS value from /proc/{pid}/status
+    #Extract the VmRSS value from /proc/{pid}/status
+    mem_usage=$(grep -E 'VmRSS' /proc/$PID/status | awk '{print $2}')   
 
 	echo "$mem_usage"   #Return the memory usage
 }
 
 function notify
 {
-	#We convert the float representating the CPU usage to an integer for convenience. We will compare $usage_int to $CPU_THRESHOLD
+	#compare $usage_int to $CPU_THRESHOLD
 	cpu_usage_int=$(printf "%.f" $1)
 
 	#Check if the process has exceeded the thresholds
     if [[ $cpu_usage_int -gt $CPU_THRESHOLD || $mem_usage -gt $MEMORY_THRESHHOLD ]]; then
         file_to_send=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
-        echo "Maximum memory usage exceeded:" > tmp-message
-        echo $(cat $REPORTS_DIR/$file_to_send) >> tmp-message
-        /usr/bin/mailx -s "mail-usage" $USER < tmp-message
+        echo "Maximum memory usage exceeded:" > tmp_message
+        echo $(cat $REPORTS_DIR/$file_to_send) >> tmp_message
+        echo $tmp_message
+        #/usr/bin/mailx -s "mail-usage" $USER < tmp-message
         exit
     fi
 
