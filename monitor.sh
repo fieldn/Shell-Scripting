@@ -113,7 +113,7 @@ function notify
 	cpu_usage_int=$(printf "%.f" $1)
 
 	#Check if the process has exceeded the thresholds
-    if [ $cpu_usage_int -gt $CPU_THRESHOLD || $mem_usage -gt $MEMORY_THRESHHOLD ]; then
+    if [[ $cpu_usage_int -gt $CPU_THRESHOLD || $mem_usage -gt $MEMORY_THRESHHOLD ]]; then
         echo "hello"
     fi
 
