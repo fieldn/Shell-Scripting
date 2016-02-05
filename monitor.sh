@@ -64,11 +64,11 @@ function generate_report {
     #num_reports=0
     #$( grep -cE '([0-9]{2}.){2}([0-9]{4}.)(\1){2}[0-9]{2}' $(ls $REPORTS_DIR) )
 
-    if [ "$num_reports" -ge "$MAXIMUM_REPORTS" ]; then
+    #if [ "$num_reports" -ge "$MAXIMUM_REPORTS" ]; then
         file_to_delete=$(head $(ls $REPORTS_DIR) | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}')
         #file_to_delete=$(ls $REPORTS_DIR | head )
-        echo file_to_delete
-    fi
+    #    echo file_to_delete
+    #fi
 
 	#Name of the report file
 	file_name="$(date +'%d.%m.%Y.%H.%M.%S')"
