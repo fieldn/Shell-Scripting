@@ -62,10 +62,10 @@ function generate_report {
     num_reports=$(ls -1 $REPORTS_DIR | wc -l)
 
     if [ "$num_reports" -ge "$MAXIMUM_REPORTS" ]; then
-        file_to_delete=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | head -1)
+        file_to_delete=$(ls $REPORTS_DIR | egrep '\n' | head -1)
         echo $file_to_delete
         rm $REPORTS_DIR/$file_to_delete
-        echo $(ls $REPORTS_DIR)
+        echo $(ls $REPORTS_DIR
     fi
 
 	#Name of the report file
