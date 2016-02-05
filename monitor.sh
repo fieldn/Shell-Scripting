@@ -114,8 +114,6 @@ function notify
 {
 	#compare $usage_int to $CPU_THRESHOLD
 	cpu_usage_int=$(printf "%.f" $1)
-    echo $mem_usage
-    echo $MEMORY_THRESHHOLD
 
 	#Check if the process has exceeded the thresholds
     if [[ $cpu_usage_int -gt $CPU_THRESHOLD || (( $MEMORY_THRESHHOLD -ne -1 && $mem_usage -gt $MEMORY_THRESHHOLD )) ]]; then
