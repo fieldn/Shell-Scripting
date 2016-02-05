@@ -24,7 +24,6 @@ function check_arguments {
     else 
         MEMORY_THRESHHOLD=-1
     fi
-
 }
 
 function init {
@@ -39,7 +38,6 @@ function init {
 	TIME_INTERVAL=${@:$#} #Time interval is the last argument
 
 	MAXIMUM_REPORTS=${@:$#-1:1} #Maximum reports is the argument before the last
-
 }
 
 #This function calculates the CPU usage percentage given the clock ticks in the last $TIME_INTERVAL seconds
@@ -102,16 +100,13 @@ function calculate_cpu_usage {
 	echo "$percentage" #return the CPU usage percentage
 }
 
-function calculate_mem_usage
-{
+function calculate_mem_usage {
     #Extract the VmRSS value from /proc/{pid}/status
     mem_usage=$(grep -E 'VmRSS' /proc/$PID/status | awk '{print $2}')   
-
 	echo "$mem_usage"   #Return the memory usage
 }
 
-function notify
-{
+function notify {
 	#compare $usage_int to $CPU_THRESHOLD
 	cpu_usage_int=$(printf "%.f" $1)
 
@@ -124,9 +119,14 @@ function notify
         /usr/bin/mailx -s "mail-usage" $USER < tmp_message
         exit
     fi
-
 }
 
+function display {
+
+    file_to_display=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | head -1)
+    loc="\[\033[4;0m\]"
+    echo $loc[$file_to_display]
+}
 
 check_arguments $# $@
 
@@ -149,5 +149,7 @@ do
 
 	#Call the notify function to send an email to $USER if the thresholds were exceeded
 	notify $cpu_usage $mem_usage
+
+    display
 
 done
