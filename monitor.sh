@@ -134,7 +134,7 @@ do
 	cpu_usage=$(calculate_cpu_usage)
 
 	#part 2
-    echo (cat /proc/$PID/stat | awk '{print $2}')
+    echo $(cat /proc/$PID/stat | awk '{print $2}')
 	mem_usage=$(calculate_mem_usage)
 
 	generate_report $cpu_usage $mem_usage
