@@ -119,6 +119,7 @@ function notify
         echo >> tmp-message
         echo "Today is" `date` >> tmp-message
         echo >> tmp-message
+        echo $tmp-message
         #echo "Maximum memory usage exceeded:" > tmp-message
         #echo >> tmp-message
         #echo $(cat $REPORTS_DIR/$file_to_send) > tmp-message
