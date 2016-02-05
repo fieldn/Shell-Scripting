@@ -19,7 +19,9 @@ function check_arguments {
 	CPU_THRESHOLD=$4
 
 	#Extract the memory threshold (part 2 of the script)
-
+    if [ "$1" -gt 7 ]; then
+        MEMORY_THRESHHOLD=$6
+    fi
 }
 
 function init {
@@ -54,7 +56,6 @@ function jiffies_to_percentage {
 	echo "100 * ( ($diff_stime + $diff_utime) / $hertz) / $TIME_INTERVAL" | bc -l
 }
 
-
 #This function takes as arguments the cpu usage and the memory usage that were last computed
 function generate_report {
 	
@@ -62,10 +63,8 @@ function generate_report {
     num_reports=$(ls -1 $REPORTS_DIR | wc -l)
 
     if [ "$num_reports" -ge "$MAXIMUM_REPORTS" ]; then
-        file_to_delete=$(ls $REPORTS_DIR | egrep '\n' | head -1)
-        echo $file_to_delete
+        file_to_delete=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | head -1)
         rm $REPORTS_DIR/$file_to_delete
-        echo $(ls $REPORTS_DIR)
     fi
 
 	#Name of the report file
@@ -114,7 +113,7 @@ function notify
 	cpu_usage_int=$(printf "%.f" $1)
 
 	#Check if the process has exceeded the thresholds
-    if [ $cpu_usage_int -gt $CPU_THRESHOLD ]; then
+    if [ $cpu_usage_int -gt $CPU_THRESHOLD || $mem_usage -gt $MEMORY_THRESHHOLD ]; then
         echo "hello"
     fi
 
@@ -141,6 +140,6 @@ do
 	generate_report $cpu_usage $mem_usage
 
 	#Call the notify function to send an email to $USER if the thresholds were exceeded
-	#notify $cpu_usage $mem_usage
+	notify $cpu_usage $mem_usage
 
 done
