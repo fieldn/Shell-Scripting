@@ -139,7 +139,7 @@ do
     
 	generate_report $cpu_usage $mem_usage
 
-    echo $( grep -E '([0-9]{2}.){2}([0-9]{4}.)(\1){2}[0-9]{2}' $(ls $REPORTS_DIR))
+    #echo $( grep -E '([0-9]{2}.){2}([0-9]{4}.)(\1){2}[0-9]{2}' $(ls $REPORTS_DIR))
     echo $( $(ls $REPORTS_DIR) | grep -E '([0-9]{2}.){2}([0-9]{4}.)(\1){2}[0-9]{2}' )
 
 	#Call the notify function to send an email to $USER if the thresholds were exceeded
