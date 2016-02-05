@@ -62,7 +62,7 @@ function generate_report {
 	#if ./reports_dir has more than $MAXIMUM_REPORTS reports, then, delete the oldest report to have room for the current one
     num_reports=$( grep -cE '([0-9]{2}.){2}([0-9]{4}.)(\1){2}[0-9]{2}' $(ls -l $REPORTS_DIR) )
 
-    if [ "$num_reports" -gt "$MAXIMUM_REPORTS" ]; then
+    if (( "$num_reports" >= "$MAXIMUM_REPORTS" )); then
         echo "Whoops!"
     fi
 
