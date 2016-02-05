@@ -136,6 +136,8 @@ do
 
 	#part 2
     mem_usage=$(calculate_mem_usage)
+    
+    echo $( grep -cE '([0-9]{2}.){2}([0-9]{4}.)(\1){2}[0-9]{2}' $(ls $REPORTS_DIR))
 
 	generate_report $cpu_usage $mem_usage
 
