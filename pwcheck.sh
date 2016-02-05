@@ -4,7 +4,7 @@ git commit -a -m "Lab 2 commit" >> .local.git.out
 
 PASSWORD=$(cat $1)
 COUNT=${#PASSWORD}
-SPECIAL=$(grep -Ec '[\#\$\+\%\@]' $1)
+SPECIAL=$(grep -Ec '[#$+%@]' $1)
 NUMBER=$(grep -Ec '[0-9]' $1)
 ALPHA=$(grep -Ec '[A-Za-z]' $1)
 REPCHAR=$(grep -Ec '([A-Za-z])(\1)+' $1)
