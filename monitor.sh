@@ -19,7 +19,7 @@ function check_arguments {
 	CPU_THRESHOLD=$4
 
 	#Extract the memory threshold (part 2 of the script)
-    if [ "$1" -gt 7 ]; then
+    if [ "$1" -gt 6 ]; then
         MEMORY_THRESHHOLD=$6
     else 
         MEMORY_THRESHHOLD=-1
