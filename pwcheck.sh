@@ -6,7 +6,6 @@ git commit -a -m "Lab 2 commit" >> .local.git.out
 
 POINTS=0
 PASSWORD=$(cat $1)
-PWDSCORE="Password Score: "
 ERR="Error: Password length invalid."
 COUNT=${#PASSWORD}
 SPECIAL=$(grep -Ec '[\#\$\+\%\@]' $1)
@@ -24,25 +23,18 @@ if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then
 fi
 let POINTS=POINTS+COUNT
 
-#password contains special characters
-[[ "$(grep -Ec '[\#\$\+\%\@]' $1)" -gt "0" ]] && ((POINTS+=5))
+[[ "$SPECIAL"  -gt "0" ]] && ((POINTS+=5))  #password contains special characters
 
-#password contains a number
-[[ "$NUMBER" -gt "0" ]] && ((POINTS+=5))
+[[ "$NUMBER"   -gt "0" ]] && ((POINTS+=5))  #password contains a number
 
-#password contains an alpha character
-[[ "$ALPHA" -gt "0" ]] && ((POINTS+=5))
+[[ "$ALPHA"    -gt "0" ]] && ((POINTS+=5))  #password contains an alpha character
 
-#password contains an the same alpha character in a row
-[[ "$REPCHAR" -gt "0" ]] && ((POINTS-=10))
+[[ "$REPCHAR"  -gt "0" ]] && ((POINTS-=10)) #password contains an the same alpha character in a row
 
-#password contains 3 uppercase characters
-[[ "$REPUPPER" -gt "0" ]] && ((POINTS-=3))
+[[ "$REPUPPER" -gt "0" ]] && ((POINTS-=3))  #password contains 3 uppercase characters
 
-#password contains 3 lowercase characters in a row
-[[ "$REPLOWER" -gt "0" ]] && ((POINTS-=3))
+[[ "$REPLOWER" -gt "0" ]] && ((POINTS-=3))  #password contains 3 lowercase characters in a row
 
-#password contains 3 numbers in a row
-[[ "$REPNUM" -gt "0" ]] && ((POINTS-=3))
+[[ "$REPNUM"   -gt "0" ]] && ((POINTS-=3))  #password contains 3 numbers in a row
 
-echo $PWDSCORE $POINTS
+echo "Password Score: " $POINTS
