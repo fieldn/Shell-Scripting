@@ -1,6 +1,4 @@
 #!/bin/bash
-
-#DO NOT REMOVE THE FOLLOWING TWO LINES
 git add $0 >> .local.git.out
 git commit -a -m "Lab 2 commit" >> .local.git.out
 
@@ -20,18 +18,12 @@ if [ "$COUNT" -lt "6" ] || [ "$COUNT" -gt "32" ] ; then #check pw length is betw
 fi
 POINTS=COUNT
 
-[[ "$SPECIAL"  -gt "0" ]] && ((POINTS+=5))  #pw contains special characters
-
-[[ "$NUMBER"   -gt "0" ]] && ((POINTS+=5))  #pw contains a number
-
-[[ "$ALPHA"    -gt "0" ]] && ((POINTS+=5))  #pw contains an alpha character
-
-[[ "$REPCHAR"  -gt "0" ]] && ((POINTS-=10)) #pw contains an the same alpha character in a row
-
-[[ "$REPUPPER" -gt "0" ]] && ((POINTS-=3))  #pw contains 3 uppercase characters
-
-[[ "$REPLOWER" -gt "0" ]] && ((POINTS-=3))  #pw contains 3 lowercase characters in a row
-
+[[ "$SPECIAL"  -gt "0" ]] && ((POINTS+=5))  #pw contains special characters 
+[[ "$NUMBER"   -gt "0" ]] && ((POINTS+=5))  #pw contains a number 
+[[ "$ALPHA"    -gt "0" ]] && ((POINTS+=5))  #pw contains an alpha character 
+[[ "$REPCHAR"  -gt "0" ]] && ((POINTS-=10)) #pw contains an the same alpha character in a row 
+[[ "$REPUPPER" -gt "0" ]] && ((POINTS-=3))  #pw contains 3 uppercase characters 
+[[ "$REPLOWER" -gt "0" ]] && ((POINTS-=3))  #pw contains 3 lowercase characters in a row 
 [[ "$REPNUM"   -gt "0" ]] && ((POINTS-=3))  #pw contains 3 numbers in a row
 
 echo "Password Score:" $POINTS
