@@ -114,7 +114,9 @@ function notify
 
 	#Check if the process has exceeded the thresholds
     if [[ $cpu_usage_int -gt $CPU_THRESHOLD || $mem_usage -gt $MEMORY_THRESHHOLD ]]; then
-        echo "hello"
+        file_to_send=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
+        echo $(cat /$REPORTS_DIR/$file_to_send)
+        exit
     fi
 
 }
