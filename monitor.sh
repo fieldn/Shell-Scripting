@@ -114,7 +114,8 @@ function notify
 
 	#Check if the process has exceeded the thresholds
     if [ $cpu_usage_int -gt $CPU_THRESHOLD ]; then
-        echo "hello"
+        file_to_delete=$(head $(ls reports_dir | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}'))
+        echo file_to_delete
     fi
 
 }
