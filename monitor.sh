@@ -135,6 +135,7 @@ init $1 $@
 echo "CPU THRESHOLD: $CPU_THRESHOLD"
 echo "MAXIMUM REPORTS: $MAXIMUM_REPORTS"
 echo "Time interval: $TIME_INTERVAL" 
+echo "\n\n\n"
 
 #The monitor runs forever
 while [ -n "$(ls /proc/$PID)" ] #While this process is alive
