@@ -117,7 +117,7 @@ function notify {
         cat $REPORTS_DIR/$file_to_send >> tmp_message
         cat tmp_message
         /usr/bin/mailx -s "mail-usage" $USER < tmp_message
-        exit
+    #    exit
     fi
 }
 
@@ -152,6 +152,6 @@ do
 	#Call the notify function to send an email to $USER if the thresholds were exceeded
 	notify $cpu_usage $mem_usage
 
-    display
+    #display
 
 done
