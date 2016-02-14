@@ -124,7 +124,7 @@ function notify {
 function display {
 
     file_to_display=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
-    loc="\[\033[F\]"
+    loc="\033[3F"
     printf "$loc %s \n" $(cat ./reports_dir/$file_to_display)
 }
 
