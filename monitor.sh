@@ -125,7 +125,7 @@ function display {
 
     file_to_display=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
     loc="\033[4F"
-    printf "\033[2k"
+    printf "\033[2K"
     echo -e "$loc$(cat ./reports_dir/$file_to_display)"
 }
 
