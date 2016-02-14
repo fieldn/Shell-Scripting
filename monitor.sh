@@ -115,14 +115,12 @@ function notify {
         file_to_send=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
         echo "Maximum usage exceeded:" > tmp_message
         cat $REPORTS_DIR/$file_to_send >> tmp_message
-        cat tmp_message
-        /usr/bin/mailx -s "mail-usage" $USER < tmp_message
-    #    exit
+        #cat tmp_message
+        /usr/bin/mailx -s "process-usage" $USER < tmp_message
     fi
 }
 
 function display {
-
     file_to_display=$(ls $REPORTS_DIR | egrep '([0-9]{2}\.){2}([0-9]{4}\.)([0-9]{2}\.){2}[0-9]{2}' | tail -1)
     loc="\033[4F"
     printf "\033[2K"
@@ -152,6 +150,6 @@ do
 	#Call the notify function to send an email to $USER if the thresholds were exceeded
 	notify $cpu_usage $mem_usage
 
-    #display
+    display
 
 done
