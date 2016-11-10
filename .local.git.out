@@ -1,0 +1,5653 @@
+[master (root-commit) a86c74d] Lab 2 commit
+ 1 file changed, 10 insertions(+)
+ create mode 100755 pwcheck.sh
+[master ed99137] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 95184b7] Lab 2 commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 92005c1] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 696b970] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5bde592] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 56c367c] Lab 2 commit
+ 1 file changed, 3 insertions(+)
+[master 43826ad] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master b0bf4d7] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 5f8d737] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 4f17423] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8e8ffd8] Lab 2 commit
+ 1 file changed, 1 deletion(-)
+[master 573bd93] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master be0b3ee] Lab 2 commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 78696ca] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master b778ee8] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6a45315] Lab 2 commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	if_else.sh
+	monitor.sh
+	password.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master a263426] Lab 2 commit
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+[master c2a2a5d] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 281e74e] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ccc123d] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b41d5e2] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	if_else.sh
+	monitor.sh
+	password.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	if_else.sh
+	monitor.sh
+	password.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 1a47c12] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master 6b176f5] Lab 2 commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 091b878] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d1acf69] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	if_else.sh
+	monitor.sh
+	password.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 6fbb183] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 97becaf] Lab 2 commit
+ 1 file changed, 17 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	if_else.sh
+	monitor.sh
+	password.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 6f32b4f] Lab 2 commit
+ 1 file changed, 12 insertions(+), 4 deletions(-)
+[master bf24fc8] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	if_else.sh
+	monitor.sh
+	password.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 4a40804] Lab 2 commit
+ 1 file changed, 27 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	if_else.sh
+	monitor.sh
+	password.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 1fdeb25] Lab 2 commit
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+[master 2c390bc] Lab 2 commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master ff595ec] Lab 2 commit
+ 1 file changed, 7 insertions(+), 14 deletions(-)
+[master 70b4b1c] Lab 2 commit
+ 1 file changed, 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	if_else.sh
+	monitor.sh
+	password.txt
+	pw1.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 9757486] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master 1360d34] Lab 2 commit
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master 467591c] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8ef5f6c] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aeefc82] Lab 2 commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master e92c812] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8ae3d87] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ef12d28] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c67fff8] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 483cac1] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 44fa4c3] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fb4014f] Lab 2 commit
+ 1 file changed, 7 insertions(+), 21 deletions(-)
+[master ec7193f] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5517073] Lab 2 commit
+ 1 file changed, 7 insertions(+)
+[master 66de4fa] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	monitor.sh
+	pas.txt
+	password.txt
+	pw1.txt
+	pwcheck1.sh
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 7da8952] Lab 2 commit
+ 1 file changed, 8 deletions(-)
+[master 746f858] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	monitor.sh
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 4fb568e] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3507b4a] Lab 2 commit
+ 1 file changed, 8 insertions(+), 16 deletions(-)
+[master 311ce05] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3a2535c] Lab 2 commit
+ 1 file changed, 37 insertions(+), 40 deletions(-)
+ rewrite pwcheck.sh (62%)
+[master b46031d] Lab 2 commit
+ 1 file changed, 6 insertions(+), 14 deletions(-)
+[master 0140675] Lab 2 commit
+ 1 file changed, 143 insertions(+)
+ create mode 100755 monitor.sh
+[master 4fd0ed0] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 2f5b63b] Lab 2 commit
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+[master 169fc30] Lab 2 commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 2459465] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master ff844f8] Lab 2 commit
+ 1 file changed, 4 insertions(+)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master f03c35c] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 270aaab] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c8fcd1c] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 21d09fb] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 78d5ab0] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 380f677] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9e46ea4] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4140d3f] Lab 2 commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 6d443e0] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6e8cc19] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 2ac2c2b] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 995f08b] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3b777cd] Lab 2 commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 357c03c] Lab 2 commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 279ddbc] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1ed92f1] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master 2f3e7dc] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 12c0de2] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 8a3a1be] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6b1fed1] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 62f3353] Lab 2 commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 5d43ed1] Lab 2 commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 3a5bced] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 95470e7] Lab 2 commit
+ 1 file changed, 2 insertions(+)
+[master c79ff54] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 4cc3922] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0831098] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9a621ae] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 996775b] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 989e13f] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 89fd719] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master c3bdfa0] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 828d5ee] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 2ceec7e] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master ce756bf] Lab 2 commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 2a91f29] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d84bda0] Lab 2 commit
+ 1 file changed, 3 deletions(-)
+[master f388cfd] Lab 2 commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master d351195] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 21e5562] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e584e6f] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d438cac] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b0fd3db] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8da88f8] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+[master 7903ac3] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8e6bbea] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8236717] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6d07b9e] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 82237d2] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4a10631] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d445b53] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 61c7480] Lab 2 commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master a9b3146] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8953593] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master c9311ba] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 16f9aed] Lab 2 commit
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+[master fc8769f] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c1944a7] Lab 2 commit
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+[master 5a622c5] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 652fc02] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 057c818] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2126464] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f48a773] Lab 2 commit
+ 1 file changed, 6 insertions(+), 7 deletions(-)
+[master 17004c5] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ef75ead] Lab 2 commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master ca29830] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 050b3eb] Lab 2 commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master ebe8de0] Lab 2 commit
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+[master 389e78e] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master 13a47bc] Lab 2 commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 6abdf50] Lab 2 commit
+ 1 file changed, 4 insertions(+), 9 deletions(-)
+[master d7b75c6] Lab 2 commit
+ 1 file changed, 1 deletion(-)
+[master 9e4fbc3] Lab 2 commit
+ 1 file changed, 17 insertions(+), 13 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 679917c] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8cf7758] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 86851ca] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 36b1649] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 76bfaa8] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 194a6e0] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 025895d] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1bb6116] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a3fface] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1f3f377] Lab 2 commit
+ 1 file changed, 11 insertions(+), 2 deletions(-)
+[master 9c13b87] Lab 2 commit
+ 1 file changed, 2 insertions(+)
+[master c0523ad] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9a783ab] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 07d797a] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0b7e935] Lab 2 commit
+ 1 file changed, 2 insertions(+), 11 deletions(-)
+[master 0952efc] Lab 2 commit
+ 1 file changed, 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 0706cf5] Lab 2 commit
+ 1 file changed, 10 insertions(+), 8 deletions(-)
+[master e98261b] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b1611fe] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	clock.sh
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	clock.sh
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	clock.sh
+	pas.txt
+	password.txt
+	pw1.txt
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	clock.sh
+	pas.txt
+	password.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 8f4fe44] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master acaf874] Lab 2 commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 9ddfa02] Lab 2 commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 3772651] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2a5845f] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ed67d65] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7ada2d8] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 584d9fc] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 36318cf] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 90e12f2] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master 2faeefe] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a1fe920] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b118a03] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 56383de] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a728d2c] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0f33a33] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f71b151] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4775cd0] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 3e4bc3b] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 3273bc0] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 7688a80] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master e59b39c] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master f574d8d] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6e095ed] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 1997569] Lab 2 commit
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+[master 1cd38d2] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 544244c] Lab 2 commit
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master 99f2a39] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6642f75] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master 2febb4d] Lab 2 commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 3f4c562] Lab 2 commit
+ 1 file changed, 8 insertions(+), 7 deletions(-)
+[master e2cbbb1] Lab 2 commit
+ 1 file changed, 3 insertions(+), 10 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+[master 7a480f4] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7492c06] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check.sh
+	clock.sh
+	mail_hello.sh
+	pas.txt
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	pw1.txt
+	reports_dir/
+	script-consumer.sh
+	tmp-message
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmpOracle
+	tmpOutput
+	tmpPass
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	README
+	check.sh
+	clock.sh
+	mail_hello.sh
+	password.txt
+	password0.txt
+	password1.txt
+	password10.txt
+	password2.txt
+	password3.txt
+	password4.txt
+	password5.txt
+	password6.txt
+	password7.txt
+	password8.txt
+	password9.txt
+	reports_dir/
+	script-consumer.sh
+	tmp_message
+
+nothing added to commit but untracked files present
